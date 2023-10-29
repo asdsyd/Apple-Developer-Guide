@@ -16,3 +16,7 @@ List of resources:
 # [Apple Developer Training](https://developer.apple.com/tutorials/app-dev-training)
 ### Official Apple Developer Tutorial
 
+<div align="center">
+<h3>Made with &#10084; by Open Source Team</h3>
+</div>
+
